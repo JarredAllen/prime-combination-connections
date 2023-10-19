@@ -1,0 +1,7 @@
+[package]
+name = "prime-combination-connections"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pathfinding = "4.3.2"
